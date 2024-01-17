@@ -1,0 +1,42 @@
+.main{
+    display: flex;
+    justify-content: space-between;
+}
+
+.accordion{
+    width: 350px;
+}
+
+.container-fluid a span{
+    color: blue;
+}
+
+/* .container-fluid .navbar-brand {
+    transform: rotate(20deg);
+    transition-duration: 0.5s; 
+} */
+
+.container-fluid a :hover{
+    transform: rotate(-20deg);
+    transition-duration: 0.5s;
+}
+
+#nav-button{
+    color: blue;
+    border: 0.5px solid blue;
+}
+
+#nav-button:hover{
+    background-color: blue;
+    color: white;
+}
+
+.carousel-item img{
+    height: 400px;
+}
+
+.main-card-1{
+    width: 20%;
+    margin-top: 50px;
+}
+
