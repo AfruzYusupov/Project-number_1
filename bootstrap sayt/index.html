@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link rel="stylesheet" href="./style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+</head>
+<body>
+    
+    <div class="container" style="margin: 0 auto;">
+    
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+            <div class="container-fluid">
+              <a class="navbar-brand" href="#"><span> <h1>Inf</h1></span></a>
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                  <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="#">Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="./profile.html">Profile</a>
+                  </li>
+                  <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                      Qo'shimcha
+                    </a>
+                    <ul class="dropdown-menu">
+                      <li><a class="dropdown-item" href="#">Ma'lumot qo'shish</a></li>
+                      <li><a class="dropdown-item" href="#">Saralanganlar</a></li>
+                      <li><hr class="dropdown-divider"></li>
+                      <li><a class="dropdown-item" href="#">Biz bilan boglaning</a></li>
+                    </ul>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link disabled" aria-disabled="true">Ma'lumotlar</a>
+                  </li>
+                  &nbsp;
+                  <li class="nav-item">
+                    <a class="nav-link" href="./sing-in.html">sing in</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="./profile.html">sing up</a>
+                  </li>
+                </ul>
+                <form class="d-flex" role="search">
+                  <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                  <button class="btn " id="nav-button" type="submit">Search</button>
+                </form>
+              </div>
+            </div>
+          </nav>
+    
+
+
+          <div class="main" style="margin-top: 25px;">
+
+            <div class="col-1">
+
+                <div class="card" style="width: 18rem;">
+                    <div class="card-body">
+                      <h5 class="card-title">Yangiliklar</h5>
+                      <p class="card-text">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Qui, quae dolor? </p>
+                      <a href="#" class="btn btn-primary">Ko'proq</a>
+                    </div>
+                  </div>
+                  &nbsp;
+
+                <div class="card" style="width: 18rem;">
+                    <div class="card-body">
+                      <h5 class="card-title">Yangi loyiha</h5>
+                      <p class="card-text">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Qui, quae dolor? </p>
+                      <a href="#" class="btn btn-primary">Ko'proq</a>
+                    </div>
+                  </div>
+
+                  &nbsp;
+
+                  <div class="card" style="width: 18rem;">
+                      <div class="card-body">
+                        <h5 class="card-title">Yangi loyiha</h5>
+                        <p class="card-text">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Qui, quae dolor? </p>
+                        <a href="#" class="btn btn-primary">Ko'proq</a>
+                      </div>
+                    </div>
+            </div>
+
+
+            <div class="col-2">
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                      <h2 class="accordion-header">
+                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                          Yangiliklar / BU KUN !! #1
+                        </button>
+                      </h2>
+                      <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+                        <div class="accordion-body">
+                          <strong>This is the first item's accordion body.</strong> It is shown by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                        </div>
+                      </div>
+                    </div>
+                    <div class="accordion-item">
+                      <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                            Samarqanda Uy yonib ketti!!
+                        </button>
+                      </h2>
+                      <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                        <div class="accordion-body">
+                          <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                        </div>
+                      </div>
+                    </div>
+                    <div class="accordion-item">
+                      <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                            Nimaga metro 2000 so'm bo'ldi ?
+                        </button>
+                      </h2>
+                      <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                        <div class="accordion-body">
+                          <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="accordion-item">
+                      <h2 class="accordion-header">
+                        <button class="accordion-button collapsed colspase" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                            Avtobuslarni ham narxi ko'tarildimi ?
+                        </button>
+                      </h2>
+                      <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                        <div class="accordion-body">
+                          <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="accordion-item">
+                      <h2 class="accordion-header">
+                        <button class="accordion-button collapsed clospade" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                            Toshkent markazida dokon yonib ketti !
+                        </button>
+                      </h2>
+                      <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                        <div class="accordion-body">
+                          <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+
+                  
+            </div>
+
+            <div class="col-3">
+                <nav id="navbar-example2" class="navbar bg-body-tertiary px-3 mb-3">
+                    <a class="navbar-brand" href="#">News</a>
+                    <ul class="nav nav-pills">
+                      <li class="nav-item">
+                        <a class="nav-link" href="#scrollspyHeading1">Birinchi</a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link" href="#scrollspyHeading2">Ikkinchi</a>
+                      </li>
+                      <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Dropdown</a>
+                        <ul class="dropdown-menu">
+                          <li><a class="dropdown-item" href="#scrollspyHeading3"></a></li>
+                          <li><a class="dropdown-item" href="#scrollspyHeading4"></a></li>
+                          <li><hr class="dropdown-divider"></li>
+                          <li><a class="dropdown-item" href="#scrollspyHeading5">Biz bilan boglaning</a></li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </nav>
+                  <div data-bs-spy="scroll" data-bs-target="#navbar-example2" data-bs-root-margin="0px 0px -40%" data-bs-smooth-scroll="true" class="scrollspy-example bg-body-tertiary p-3 rounded-2" tabindex="0">
+                    <h4 id="scrollspyHeading1">Eng yangilari</h4>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem mollitia repellendus animi molestiae facere pariatur </p>
+                    <h4 id="scrollspyHeading2">Uzbekistanda gaming</h4>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem mollitia repellendus animi molestiae facere pariatur </p>
+                    <h4 id="scrollspyHeading3">Yo'l yangiliklari</h4>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem mollitia repellendus animi molestiae facere pariatur </p>
+                  </div>
+            </div>
+
+
+          </div>
+
+
+          <div class="cards" style="margin-top: 25px;">
+
+            <h2 class="cards-heading" style="color: blue; margin-bottom: 10px;">Bugungi yangiliklar</h2>
+
+            <hr style="margin-bottom: 10px; width: 80%; margin: 15px auto;">
+
+            <div class="cards-2">
+
+                <div class="card" style="width: 16rem;">
+                  <img src="./52850.jpg" class="card-img-top" alt="...">
+                  <div class="card-body">
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                  </div>
+                </div>
+
+                <div class="card" style="width: 16rem;">
+                  <img src="./storm-clouds-from-above.jpg" class="card-img-top" alt="...">
+                  <div class="card-body">
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                  </div>
+                </div>
+
+                <div class="card" style="width: 16rem;">
+                  <img src="./Spirit-Island-Jasper-NP-excursie-hike-gezin-family-min-min-1024x683.jpg" class="card-img-top" alt="...">
+                  <div class="card-body">
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                  </div>
+                </div>
+
+                <div class="card" style="width: 16rem;">
+                  <img src="./things_to_know_before_traveling_to_canada.jpg" class="card-img-top" alt="...">
+                  <div class="card-body">
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                  </div>
+                </div>
+
+            </div>
+
+            <div class="cards-2" style="margin-top: 15px;">
+                <div class="card" style="width: 16rem;">
+                  <img src="./52850.jpg" class="card-img-top" alt="...">
+                  <div class="card-body">
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                  </div>
+                </div>
+
+                <div class="card" style="width: 16rem;">
+                  <img src="./Spirit-Island-Jasper-NP-excursie-hike-gezin-family-min-min-1024x683.jpg" class="card-img-top" alt="...">
+                  <div class="card-body">
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                  </div>
+                </div>
+
+                <div class="card" style="width: 16rem;">
+                  <img src="./things_to_know_before_traveling_to_canada.jpg" class="card-img-top" alt="...">
+                  <div class="card-body">
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                  </div>
+                </div>
+
+                <div class="card" style="width: 16rem;">
+                  <img src="./storm-clouds-from-above.jpg" class="card-img-top" alt="...">
+                  <div class="card-body">
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                  </div>
+                </div>
+            </div>
+
+
+          </div>
+
+          <div class="under-footer">
+
+            <h2 style="color: blue; margin-top: 15px;">Zudlik xabarlar</h2>
+
+            <hr style="margin-bottom: 50px; width: 80%; margin: 15px auto;">
+
+            <div class="zudlik-xabarlar">
+
+              <div class="card text-center">
+                <div class="card-header">
+                  Featured
+                </div>
+                <div class="card-body">
+                  <h5 class="card-title">o'zbekistonda katta portlash bo'ladi</h5>
+                  <p class="card-text">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ducimus architecto  <br>
+                  distinctio rerum at eligendi! <br>
+                  Quia odit amet provident magni nisi.</p>
+                  <a href="#" class="btn btn-primary">Go somewhere</a>
+                </div>
+                <div class="card-footer text-body-secondary">
+                  2 days ago
+                </div>
+              </div>
+
+              &nbsp;
+              <div class="card text-center">
+                <div class="card-header">
+                  Featured
+                </div>
+                <div class="card-body">
+                  <h5 class="card-title">o'zbekistonda katta portlash bo'ladi</h5>
+                  <p class="card-text">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ducimus architecto  <br>
+                  distinctio rerum at eligendi! <br>
+                  Quia odit amet provident magni nisi.</p>
+                  <a href="#" class="btn btn-primary">Go somewhere</a>
+                </div>
+                <div class="card-footer text-body-secondary">
+                  2 days ago
+                </div>
+              </div>
+
+              &nbsp;
+              <div class="card text-center">
+                <div class="card-header">
+                  Featured
+                </div>
+                <div class="card-body">
+                  <h5 class="card-title">o'zbekistonda katta portlash bo'ladi</h5>
+                  <p class="card-text">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ducimus architecto  <br>
+                  distinctio rerum at eligendi! <br>
+                  Quia odit amet provident magni nisi.</p>
+                  <a href="#" class="btn btn-primary">Go somewhere</a>
+                </div>
+                <div class="card-footer text-body-secondary">
+                  2 days ago
+                </div>
+              </div>
+
+              &nbsp;
+              
+            </div>
+
+
+          </div>
+
+          <div class="footer">
+            <footer class="row row-cols-5 py-5 my-5 border-top">
+              <div class="col">
+                <a href="/" class="d-flex align-items-center mb-3 link-dark text-decoration-none">
+                  <h1 style="color: blue;">Inf</h1>                </a>
+                <p class="text-muted">© 2021</p>
+              </div>
+          
+              <div class="col">
+          
+              </div>
+          
+              <div class="col">
+                <h5>Section</h5>
+                <ul class="nav flex-column">
+                  <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Home</a></li>
+                  <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Features</a></li>
+                  <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Pricing</a></li>
+                  <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">FAQs</a></li>
+                  <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">About</a></li>
+                </ul>
+              </div>
+          
+              <div class="col">
+                <h5>Section</h5>
+                <ul class="nav flex-column">
+                  <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Home</a></li>
+                  <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Features</a></li>
+                  <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Pricing</a></li>
+                  <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">FAQs</a></li>
+                  <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">About</a></li>
+                </ul>
+              </div>
+          
+              <div class="col">
+                <h5>Section</h5>
+                <ul class="nav flex-column">
+                  <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Home</a></li>
+                  <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Features</a></li>
+                  <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Pricing</a></li>
+                  <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">FAQs</a></li>
+                  <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">About</a></li>
+                </ul>
+              </div>
+            </footer>
+          </div>
+    </div>
+
+
+
+
+    
+
+
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+</body>
+</html>
