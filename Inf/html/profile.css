@@ -1,0 +1,11 @@
+.navbar-brand span h1{
+    color: blue;
+}
+
+.navbar-brand :hover{
+    transform: rotate(-20deg);
+    transition-duration: 0.7s;
+}
+.pro-main{
+    display: flex;
+}
