@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <div class="grey">
+
+    </div>
+    <div class="container">
+
+        <header>
+            <nav>
+                <div class="img">
+                    <img src="./Frame.png" alt="">
+                </div>
+                <div class="ul">
+                    <ul class="ull">
+                        <li class="li">Home</li>
+                        <li class="li">Kiyimlar</li>
+                        <li class="li">portfolio</li>
+                        <li class="li">Mijozlar</li>
+                        <li class="li">Java</li>
+                        <li class="li">kontact</li>
+                    </ul>
+                    <div class="uzb">uzb</div>
+                </div>
+            </nav>
+            <div class="main">
+                <div class="text-1">
+                    <p class="h11">Nega mijozlar bizni tanlashadi?</p>
+                    <p class="h22">So'ngi textnologiya lar sifati.</p>
+                    <h1 class="h33">hoziroq buyurtma bering.</h1>
+                    <button class="btn-1">Buyurtma bering →</button>
+                </div>
+                <div class="img-2">
+                    <img src="./2 455737.png" alt="">
+                </div>
+            </div>
+            <div class="tel-number">
+                <div class="tel1">
+                    <p style="color: grey;">📞 (+998)</p>
+                    <h1>360-77-00</h1>
+                </div>
+                <div class="tel1">
+                    <p style="color: grey;">📞 (+998)</p>
+                    <h1>360-77-00</h1>
+                </div>
+            </div>
+        </header>
+
+        <main>
+
+
+            <div class="part1">
+                <h1>«EUROPRINT»</h1>
+                <b><h2 style="font-size: 30px;">tipografiyasi haqida</h2></b>
+                <p style="margin-top: 20px;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores voluptatibus doloremque aperiam alias rem magnam harum aliquid quia ea soluta molestiae corrupti debitis, neque, in voluptatum repudiandae ullam distinctio! Asperiores.
+                Minus aliquid dolore molestiae exercitationem! Nulla, dolor velit, officia facilis odit excepturi unde assumenda, eos aliquam cupiditate labore est accusantium! Delectus quibusdam veritatis quia facilis voluptatem minus optio inventore est.
+                </p>
+                <ul>
+                    <li>Katta tajriba</li>
+                    <li>eng yangi uskunalar </li>
+                    <li>keng idoradagi hizmatlar</li>
+                    <li>buyurtmaning eng tezkor bajarilishi</li>
+                </ul>
+            </div>
+            <div class="grey2">
+                <h1 style="color: white; font-size: 120px;">EURO <span style="margin-left: 80px;">PRINT</span></h1>
+            </div>
+            <div class="part2">
+                <img style="margin-top: 300px;" src="./Group 36.png" alt="">
+            </div>
+
+        </main>
+</div>
+        <div class="nma-uchun">
+            <h1 style="text-align: center; padding-top: 20px;">Nima uchun biz?</h1>
+            <div class="items">
+                <div class="item-1">
+                    <img style="position: absolute; bottom: 150px; left: 120px;" src="./Group 27.png" alt="">
+                    <h1 style=" margin-top: 50px; margin-left: 65px;">Samaradorlik</h1>
+                    <p style="text-align: center; margin-top: 10px;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae velit, recusandae, cupiditate rerum dolore placeat iste  </p>
+                </div>
+                <div class="item-2">
+                    <img style="position: absolute; bottom: 150px; left: 120px;" src="./Group 31.png" alt="">
+                    <h1 style=" margin-top: 50px; margin-left: 65px;">Dizayn ofisi</h1>
+                    <p style="text-align: center; margin-top: 10px;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae velit, recusandae, cupiditate rerum dolore placeat iste  </p>
+                </div>
+                <div class="item-3">
+                    <img style="position: absolute; bottom: 150px; left: 120px;" src="./Group 30.png" alt="">
+                    <h1 style=" margin-top: 50px; margin-left: 65px;">Zamonaviy</h1>
+                    <p style="text-align: center; margin-top: 10px;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae velit, recusandae, cupiditate rerum dolore placeat iste  </p>
+                </div>
+                <div class="item-4">
+                    <img style="position: absolute; bottom: 150px; left: 120px;" src="./Group 29.png" alt="">
+                    <h1 style=" margin-top: 50px; margin-left: 65px;">100% sifat</h1>
+                    <p style="text-align: center; margin-top: 10px;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae velit, recusandae, cupiditate rerum dolore placeat iste  </p>
+                </div>
+                <div class="item-5">
+                    <img style="position: absolute; bottom: 150px; left: 120px;" src="./Group 28.png" alt="">
+                    <h1 style=" margin-top: 50px; margin-left: 65px;">Samaradorlik</h1>
+                    <p style="text-align: center; margin-top: 10px;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae velit, recusandae, cupiditate rerum dolore placeat iste  </p>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <section class="rasmlar-12">
+                <p style="font-size: 40px; text-align: center; margin-top: 20px;">Bizning hizmatlar</p>
+                <div class="m1">
+                    <div class="img-1"><img src="./page4-img2.png" alt=""></div>
+                    <div class="img-2"><img src="./page4-img2.png" alt=""></div>
+                    <div class="img-3"><img src="./page4-img2.png" alt=""></div>
+                    <div class="img-12"><img src="./page4-img2.png" alt=""></div>
+                </div>
+                <div class="m2">
+                    <div class="img-4"><img src="./page4-img2.png" alt=""></div>
+                    <div class="img-5"><img src="./page4-img2.png" alt=""></div>
+                    <div class="img-6"><img src="./page4-img2.png" alt=""></div>
+                    <div class="img-10"><img src="./page4-img2.png" alt=""></div>
+                </div>
+                <div class="m3">
+                    <div class="img-7"><img src="./page4-img2.png" alt=""></div>
+                    <div class="img-8"><img src="./page4-img2.png" alt=""></div>
+                    <div class="img-9"><img src="./page4-img2.png" alt=""></div>
+                    <div class="img-11"><img src="./page4-img2.png" alt=""></div>
+                </div>
+
+            </section>
+
+            <section class="portfolio">
+                <div class="text-4">
+                    <p style="font-size: 40px; margin-bottom: 10px;">Portfolio</p>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore vitae, suscipit dolore maiores repellendus ab libero tenetur explicabo dignissimos inventore officia impedit est? Autem delectus quo assumenda repellendus molestiae voluptates rerum dolor dicta ducimus, nesciunt minima vitae labore! Ducimus reiciendis laborum dolorem architecto, quibusdam esse nesciunt maxime. Distinctio, exercitationem velit?</p>
+                    <img width="550px" src="./image 3.png" alt="">
+                </div>
+            </section>
+</div>
+            <section class="numbers">
+                <div class="section-1">
+                    <p style="font-size: 50px;">628+</p>
+                    <p style="color: rgb(220, 220, 220); text-align: center;">Lorem ipsum dolor sit  amet <br> consectetur.</p>
+                </div>
+                <div class="section-2">
+                    <p style="font-size: 50px;">628+</p>
+                    <p style="color: rgb(220, 220, 220); text-align: center;">Lorem ipsum dolor sit  amet <br> consectetur.</p>
+                </div>
+                <div class="section-3">
+                    <p style="font-size: 50px;">628+</h1>
+                    <p style="color: rgb(220, 220, 220); text-align: center;">Lorem ipsum dolor sit  amet <br> consectetur.</p>
+                </div>
+
+            </section>
+
+            
+
+                <section style="width: 100%;">
+                    <h1 style="text-align: center; font-size: 50px; margin-bottom: 50px; margin-top: 50px;">Bizning mijozlar</h1>
+                    <img width="100%" height="600px" src="./images-carusel.PNG" alt="">
+                </section>
+
+                <section>
+                    <h1 style="font-size: 40px;">Bizning jamoa</h1>
+                    <div class="section--1">
+                        <h1>billo gadoyev</h1>
+                    </div>
+                    <div class="section--2">
+                        <h1>bidish gadoyev</h1>
+                    </div>
+                    <div class="section--3">
+                        <h1>afruz boyev</h1>
+                    </div>
+                </section>
+
+            
+        
+
+
+    
+</body>
+</html>
