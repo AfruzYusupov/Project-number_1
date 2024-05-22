@@ -15,38 +15,41 @@
         <header>
             <nav>
                 <div class="img">
-                    <img src="./Frame.png" alt="">
+                    <img src="./channels4_profile.jpg" alt="">
                 </div>
                 <div class="ul">
                     <ul class="ull">
-                        <li class="li">Home</li>
-                        <li class="li">Kiyimlar</li>
-                        <li class="li">portfolio</li>
-                        <li class="li">Mijozlar</li>
-                        <li class="li">Java</li>
-                        <li class="li">kontact</li>
+                        <a href=""><li class="li">About</li></a>
+                        <a href=""><li class="li">Ustozlar</li></a>
+                        <a href=""><li class="li">O'quvchilar</li></a>
+                        <a href=""><li class="li">Bog'lanish</li></a>
+                        <a href=""><li class="li">Qabul</li></a>
                     </ul>
-                    <div class="uzb">uzb</div>
+                   <select class="uzb" name="" id="">
+                    <option class="uzb" value="">English</option>
+                    <option class="uzb" value="">Russian</option>
+                    <option class="uzb" value="">Uzbek</option>
+                   </select>
                 </div>
             </nav>
             <div class="main">
                 <div class="text-1">
                     <p class="h11">Nega mijozlar bizni tanlashadi?</p>
-                    <p class="h22">So'ngi textnologiya lar sifati.</p>
-                    <h1 class="h33">hoziroq buyurtma bering.</h1>
-                    <button class="btn-1">Buyurtma bering →</button>
+                    <p class="h22">So'ngi textnologiyalar sifati.</p>
+                    <h1 class="h33">Qabulga yoziling.</h1>
+                    <button class="btn-1">Biz haqimizda ▶</button>
                 </div>
                 <div class="img-2">
-                    <img src="./2 455737.png" alt="">
+                    <img src="./maxresdefault.jpg" alt="">
                 </div>
             </div>
             <div class="tel-number">
                 <div class="tel1">
-                    <p style="color: grey;">📞 (+998)</p>
-                    <h1>360-77-00</h1>
+                    <p style="color: grey;">📞 (+998 55)</p>
+                    <h1>500-84-85</h1>
                 </div>
                 <div class="tel1">
-                    <p style="color: grey;">📞 (+998)</p>
+                    <p style="color: grey;">📞 (+998 99)</p>
                     <h1>360-77-00</h1>
                 </div>
             </div>
@@ -56,33 +59,33 @@
 
 
             <div class="part1">
-                <h1>«EUROPRINT»</h1>
-                <b><h2 style="font-size: 30px;">tipografiyasi haqida</h2></b>
+                <h1>« Sayllar »</h1>
+                <b><h2 style="font-size: 30px;">Al-jabr sayllari haqida</h2></b>
                 <p style="margin-top: 20px;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores voluptatibus doloremque aperiam alias rem magnam harum aliquid quia ea soluta molestiae corrupti debitis, neque, in voluptatum repudiandae ullam distinctio! Asperiores.
                 Minus aliquid dolore molestiae exercitationem! Nulla, dolor velit, officia facilis odit excepturi unde assumenda, eos aliquam cupiditate labore est accusantium! Delectus quibusdam veritatis quia facilis voluptatem minus optio inventore est.
                 </p>
                 <ul>
-                    <li>Katta tajriba</li>
-                    <li>eng yangi uskunalar </li>
-                    <li>keng idoradagi hizmatlar</li>
-                    <li>buyurtmaning eng tezkor bajarilishi</li>
+                    <li>Judayam qiziqarli</li>
+                    <li>Chiroyli joylar </li>
+                    <li>O'quvchilarning xafvsizligi</li>
+                    <li></li>
                 </ul>
             </div>
             <div class="grey2">
-                <h1 style="color: white; font-size: 120px;">EURO <span style="margin-left: 80px;">PRINT</span></h1>
+                <h1 style="color: white; font-size: 120px;">Sayohat</h1><b><span style="margin-left: 120px;font-size: 120px;">Sayllar</span></b>
             </div>
             <div class="part2">
-                <img style="margin-top: 300px;" src="./Group 36.png" alt="">
+                <img style="margin-top: 300px;" src="./maxresdefault (1).jpg" alt="">
             </div>
 
         </main>
-</div>
+<!-- </div>
         <div class="nma-uchun">
             <h1 style="text-align: center; padding-top: 20px;">Nima uchun biz?</h1>
             <div class="items">
                 <div class="item-1">
                     <img style="position: absolute; bottom: 150px; left: 120px;" src="./Group 27.png" alt="">
-                    <h1 style=" margin-top: 50px; margin-left: 65px;">Samaradorlik</h1>
+                    <h1 style=" margin-top: 50px; margin-left: 65px; color: #a8191b;">Samaradorlik</h1>
                     <p style="text-align: center; margin-top: 10px;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae velit, recusandae, cupiditate rerum dolore placeat iste  </p>
                 </div>
                 <div class="item-2">
@@ -176,7 +179,7 @@
                 </section>
 
             
-        
+         -->
 
 
     
