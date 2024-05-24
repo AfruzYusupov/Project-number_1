@@ -34,8 +34,8 @@
             </nav>
             <div class="main">
                 <div class="text-1">
-                    <p class="h11">Nega mijozlar bizni tanlashadi?</p>
-                    <p class="h22">So'ngi textnologiyalar sifati.</p>
+                    <p class="h11">Nega Ota-Onalar bizni tanlashadi?</p>
+                    <p class="h22">Sifatli Ta'lim, <b>tarbiyadan</b> boshlanadi.</p>
                     <h1 class="h33">Qabulga yoziling.</h1>
                     <button class="btn-1">Biz haqimizda ▶</button>
                 </div>
@@ -71,78 +71,121 @@
                     <li></li>
                 </ul>
             </div>
-            <div class="grey2">
-                <h1 style="color: white; font-size: 120px;">Sayohat</h1><b><span style="margin-left: 120px;font-size: 120px;">Sayllar</span></b>
-            </div>
+
             <div class="part2">
                 <img style="margin-top: 300px;" src="./maxresdefault (1).jpg" alt="">
             </div>
 
         </main>
-<!-- </div>
-        <div class="nma-uchun">
-            <h1 style="text-align: center; padding-top: 20px;">Nima uchun biz?</h1>
-            <div class="items">
-                <div class="item-1">
-                    <img style="position: absolute; bottom: 150px; left: 120px;" src="./Group 27.png" alt="">
-                    <h1 style=" margin-top: 50px; margin-left: 65px; color: #a8191b;">Samaradorlik</h1>
-                    <p style="text-align: center; margin-top: 10px;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae velit, recusandae, cupiditate rerum dolore placeat iste  </p>
-                </div>
-                <div class="item-2">
-                    <img style="position: absolute; bottom: 150px; left: 120px;" src="./Group 31.png" alt="">
-                    <h1 style=" margin-top: 50px; margin-left: 65px;">Dizayn ofisi</h1>
-                    <p style="text-align: center; margin-top: 10px;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae velit, recusandae, cupiditate rerum dolore placeat iste  </p>
-                </div>
-                <div class="item-3">
-                    <img style="position: absolute; bottom: 150px; left: 120px;" src="./Group 30.png" alt="">
-                    <h1 style=" margin-top: 50px; margin-left: 65px;">Zamonaviy</h1>
-                    <p style="text-align: center; margin-top: 10px;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae velit, recusandae, cupiditate rerum dolore placeat iste  </p>
-                </div>
-                <div class="item-4">
-                    <img style="position: absolute; bottom: 150px; left: 120px;" src="./Group 29.png" alt="">
-                    <h1 style=" margin-top: 50px; margin-left: 65px;">100% sifat</h1>
-                    <p style="text-align: center; margin-top: 10px;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae velit, recusandae, cupiditate rerum dolore placeat iste  </p>
-                </div>
-                <div class="item-5">
-                    <img style="position: absolute; bottom: 150px; left: 120px;" src="./Group 28.png" alt="">
-                    <h1 style=" margin-top: 50px; margin-left: 65px;">Samaradorlik</h1>
-                    <p style="text-align: center; margin-top: 10px;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae velit, recusandae, cupiditate rerum dolore placeat iste  </p>
-                </div>
-            </div>
-        </div>
-        <div class="container">
-            <section class="rasmlar-12">
-                <p style="font-size: 40px; text-align: center; margin-top: 20px;">Bizning hizmatlar</p>
+        <section class="rasmlar-12">
+                <p style="font-size: 40px; text-align: center; margin-top: 100px;">Bizga qoldirilgan izohlar</p>
                 <div class="m1">
-                    <div class="img-1"><img src="./page4-img2.png" alt=""></div>
-                    <div class="img-2"><img src="./page4-img2.png" alt=""></div>
-                    <div class="img-3"><img src="./page4-img2.png" alt=""></div>
-                    <div class="img-12"><img src="./page4-img2.png" alt=""></div>
+                    <div class="img-1"><p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Numquam animi vel ad est quaerat ullam suscipit fuga accusantium nemo voluptates. Ad tenetur quos voluptatem assumenda illo exercitationem. Consequatur!</p>
+                    <img style="margin-top: 20px; margin-bottom: 20px; border-radius: 100%; width: 100px; height: 100px;" src="./082223_16686_Dr-Marcheta-Evans-1-1.jpg.1.2x.generic.jpg" alt="">
+                    <p style="font-size: 25px;"><b>Shohista <br> Adnonova</b></p>
+                    </div>
+                    <div class="img-1"><p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Numquam animi vel ad est quaerat ullam suscipit fuga accusantium nemo voluptates. Ad tenetur quos voluptatem assumenda illo exercitationem. Consequatur!</p>
+                        <img style="margin-top: 20px; margin-bottom: 20px; border-radius: 100%; width: 100px; height: 100px;" src="./a9dfbd69-c3fc-4feb-8fc1-673769a0d07c_thumb.jpg" alt="">
+                        <p style="font-size: 25px;"><b>Valijon <br> Sanvarov</b></p>
+                    </div>
+                    <div class="img-1"><p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Numquam animi vel ad est quaerat ullam suscipit fuga accusantium nemo voluptates. Ad tenetur quos voluptatem assumenda illo exercitationem. Consequatur!</p>
+                        <img style="margin-top: 20px; margin-bottom: 20px; border-radius: 100%; width: 100px; height: 100px;" src="./ArAP6rst_400x400.jpg" alt="">
+                        <p style="font-size: 25px;"><b>Afruz <br> Yusupov</b></p>
+                    </div>
+                    <div class="img-1"><p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Numquam animi vel ad est quaerat ullam suscipit fuga accusantium nemo voluptates. Ad tenetur quos voluptatem assumenda illo exercitationem. Consequatur!</p>
+                        <img style="margin-top: 20px; margin-bottom: 20px; border-radius: 100%; width: 100px; height: 100px;" src="./gSrPEkGj_400x400.jpg" alt="">
+                        <p style="font-size: 25px;"><b>Yusufboy <br> Yusupov</b></p>
+                    </div>
                 </div>
                 <div class="m2">
-                    <div class="img-4"><img src="./page4-img2.png" alt=""></div>
-                    <div class="img-5"><img src="./page4-img2.png" alt=""></div>
-                    <div class="img-6"><img src="./page4-img2.png" alt=""></div>
-                    <div class="img-10"><img src="./page4-img2.png" alt=""></div>
+                    <div class="img-1"><p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Numquam animi vel ad est quaerat ullam suscipit fuga accusantium nemo voluptates. Ad tenetur quos voluptatem assumenda illo exercitationem. Consequatur!</p>
+                        <img style="margin-top: 20px; margin-bottom: 20px; border-radius: 100%; width: 100px; height: 100px;" src="./user-icon-in-trendy-flat-style-isolated-on-white-background-free-vector.jpg" alt="">
+                        <p style="font-size: 25px;"><b>Bilol <br> Sanvarov</b></p>
+                        </div>
+                        <div class="img-1"><p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Numquam animi vel ad est quaerat ullam suscipit fuga accusantium nemo voluptates. Ad tenetur quos voluptatem assumenda illo exercitationem. Consequatur!</p>
+                            <img style="margin-top: 20px; margin-bottom: 20px; border-radius: 100%; width: 100px; height: 100px;" src="./082223_16686_Dr-Marcheta-Evans-1-1.jpg.1.2x.generic.jpg" alt="">
+                            <p style="font-size: 25px;"><b>Mirzohid <br> Yusupov</b></p>
+                        </div>
+                        <div class="img-1"><p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Numquam animi vel ad est quaerat ullam suscipit fuga accusantium nemo voluptates. Ad tenetur quos voluptatem assumenda illo exercitationem. Consequatur!</p>
+                            <img style="margin-top: 20px; margin-bottom: 20px; border-radius: 100%; width: 100px; height: 100px;" src="./STCFSIh3_400x400.jpg" alt="">
+                            <p style="font-size: 25px;"><b>Bekzod <br> Ibragimov</b></p>
+                        </div>
+                        <div class="img-1"><p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Numquam animi vel ad est quaerat ullam suscipit fuga accusantium nemo voluptates. Ad tenetur quos voluptatem assumenda illo exercitationem. Consequatur!</p>
+                            <img style="margin-top: 20px; margin-bottom: 20px; border-radius: 100%; width: 100px; height: 100px;" src="./F1RXgK-aEAE2cfC.jpg" alt="">
+                            <p style="font-size: 25px;"><b>Yulduz <br> Sabirova</b></p>
+                        </div>
                 </div>
-                <div class="m3">
-                    <div class="img-7"><img src="./page4-img2.png" alt=""></div>
-                    <div class="img-8"><img src="./page4-img2.png" alt=""></div>
-                    <div class="img-9"><img src="./page4-img2.png" alt=""></div>
-                    <div class="img-11"><img src="./page4-img2.png" alt=""></div>
-                </div>
+        </section>
+ </div>
 
-            </section>
+        <div class="container">
+            
 
             <section class="portfolio">
                 <div class="text-4">
-                    <p style="font-size: 40px; margin-bottom: 10px;">Portfolio</p>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore vitae, suscipit dolore maiores repellendus ab libero tenetur explicabo dignissimos inventore officia impedit est? Autem delectus quo assumenda repellendus molestiae voluptates rerum dolor dicta ducimus, nesciunt minima vitae labore! Ducimus reiciendis laborum dolorem architecto, quibusdam esse nesciunt maxime. Distinctio, exercitationem velit?</p>
-                    <img width="550px" src="./image 3.png" alt="">
+                    <p style="font-size: 40px; margin-bottom: 10px; color: white;"></p>
+                    <p><span style="display: block;font-size: 40px;">Maktabimiz rahbari</span><b>Matluba Axrarovna</b>, dolor sit amet consectetur adipisicing elit. Labore vitae, suscipit dolore maiores repellendus ab libero tenetur explicabo dignissimos inventore officia impedit est? Autem delectus quo assumenda repellendus molestiae voluptates rerum dolor dicta ducimus, nesciunt minima vitae labore! Ducimus reiciendis laborum dolorem architecto, quibusdam esse nesciunt maxime. Distinctio, exercitationem velit?</p>
+                    <img width="550px" src="./387.png" alt="">
+                </div>
+            </section>
+
+            <section class="Projects">
+            
+                <div class="Name">
+                    <div class="container">
+                    <div class="N">
+                        <p style="font-size: 50px; text-align: center; margin-top: 150px;">Projects</p>
+                    </div>
+                    </div>
+                </div>
+                <div class="Proj">
+                    <div class="container">
+                        <div class="Proj-wrapper">
+                            <div class="Proj-text">
+                                <h3 style="background-color: white; color: #0b3953;margin-left: 1px;">Al-Jabr haqida</h3>
+                                <p style="background-color: white; color: #0b3953;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque recusandae nisi consequatur explicabo! Ullam suscipit iusto odio vitae. Exercitationem, assumenda!</p>
+                                <button><a href="" style="background-color: white; color: #0b3953;">View Project</a></button>
+                            </div>
+                            <div class="Proj-img">
+                                <img src="./channels4_profile.jpg" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="Prof">
+                    <div class="container">
+                        <div class="Prof-wrapper">
+                            <div class="Prof-img">
+                                <img  src="./387.png" alt="">
+                            </div>
+                            <div class="Prof-text">
+                                <h3 style="background-color: white; color: #0b3953;margin-left: 1px;">Rahbarimiz haqida</h3>
+                                <p style="background-color: white; color: #0b3953;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus suscipit est natus iure dolorem illo dignissimos fugit delectus sit sapiente!.</p>
+    
+                                <button><a href="" style="background-color: white; color: #0b3953;">View Project</a></button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="Proj">
+                    <div class="container">
+                        <div class="Proj-wrapper">
+                            <div class="Proj-text">
+                                <h3 style="background-color: white; color: #0b3953;margin-left: 1px;">O'quvchilar haqida</h3>
+                                <p style="background-color: white; color: #0b3953;">You can also add in this description the type of the project, if it was for web, mobile, electron.</p>
+                                <button><a href="" style="background-color: white; color: #0b3953;">View Project</a></button>
+                            </div>
+                            <div class="Proj-img">
+                                <img src="./channels4_profile.jpg" alt="">
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </section>
 </div>
-            <section class="numbers">
+
+<!--
+           <section class="numbers">
                 <div class="section-1">
                     <p style="font-size: 50px;">628+</p>
                     <p style="color: rgb(220, 220, 220); text-align: center;">Lorem ipsum dolor sit  amet <br> consectetur.</p>
