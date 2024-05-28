@@ -1,0 +1,290 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    height: fit-content;
+    background-color: whitesmoke;
+}
+
+.container{
+    width: 1300px;
+     margin: 0 auto;
+}
+
+nav{
+    height: 80px;
+    width: 85%;
+    margin: 0 auto;
+}
+
+.nav-wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 70px;
+}
+
+.nav-text ul li{
+    display: inline-block;
+
+}
+
+.nav-text ul li a{
+    text-decoration: none;
+    color: #000;
+    margin-right: 20px;
+}
+
+.banner{
+    height: fit-content;
+
+}
+
+.banner-wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.banner-text h1{
+    font-size: 60px;
+    color: #333;
+    width: 450px;
+    margin-top: 0px;
+}
+.banner-text p{
+    font-size: 20px;
+    color: #828282;
+    width: 350px;
+    margin-top: 30px;
+}
+
+.banner-button{
+    margin-top: 50px;
+}
+.banner-button button{
+    margin-left: 30px;
+}
+
+.banner-button .Button{
+    height: 27px;
+    width: 73px;
+    background-color: orange;
+    border: none;
+    border-radius: 5px;
+    margin-left: 0px;
+}
+.banner-button .Button a{
+    text-decoration: none;
+    color: #000;
+}
+.banner-button .Button-2 a{
+    text-decoration: none;
+    color: #000;
+}
+
+.banner-button .Button-2{
+    height: 27px;
+    width: 73px;
+    background-color: transparent;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.banner-img img{
+    height: 500px;
+}
+
+.Name{
+    height: 200px;
+}
+
+.N{
+    display: flex;
+    height: 200px;
+    align-items: center;
+    justify-content: center;
+}
+
+.N h2{
+    font-size: 50px;
+}
+
+.Projects{
+    background-color: whitesmoke;
+    height: fit-content;
+}
+
+
+.Proj-wrapper{
+    display: flex;
+    width: 880px;
+    margin:  0 auto;
+    align-items: center;
+}
+.Prof-wrapper{
+    display: flex;
+    width: 880px;
+    margin:  0 auto;
+    align-items: center;
+}
+
+.Proj{
+    margin-top: 70px;
+}
+
+.Proj-text h3{
+    font-size: 40px;
+    margin-left: -170px;
+}
+.Prof-text h3{
+    font-size: 40px;
+    margin-left: -170px;
+}
+.Proj-text button{
+    height: 30px;
+    width: 130px;
+    margin-left: -273px;
+    background-color: transparent;
+    border-radius: 25px;
+    border: 1px solid black;
+    margin-top: 25px;
+}
+.Prof-text button{
+    height: 30px;
+    width: 130px;
+    margin-left: -273px;
+    background-color: transparent;
+    border-radius: 25px;
+    border: 1px solid black;
+    margin-top: 25px;
+}
+
+.Proj-text button a{
+    text-decoration: none;
+    color: #000;
+
+}
+.Prof-text button a{
+    text-decoration: none;
+    color: #000;
+
+}
+.Proj-text p{
+    font-size: 20px;
+    width: 400px;
+    color: #828282;
+    margin-top: 25px;
+}
+.Prof-text p{
+    font-size: 20px;
+    width: 400px;
+    color: #828282;
+    margin-top: 25px;
+}
+
+.Proj-text{
+    background-color: white;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    height: 400px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Prof{
+    margin-top: 70px;
+}
+.Prof-text{
+    background-color: white;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    height: 400px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Proj-img img{
+    height: 400px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    width: 440px;
+}
+.Prof-img img{
+    height: 400px;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    width: 440px;
+}
+
+.Form{
+    height: fit-content;
+    background-color: whitesmoke;
+}
+
+.Form h2{
+    text-align: center;
+    font-size: 50px;
+}
+
+.Form-wrapper{
+    display: flex;
+    justify-content: center;
+}
+
+input{
+    width: 385px;
+}
+
+.Finn{
+    height: 30px;
+    width: 70px;
+    background-color: orange;
+    border: none;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+
+.Finn a{
+    text-decoration: none;
+    color: black;
+}
+
+.B{
+    width: 385px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: end;
+    height: 60px;
+}
+
+.Icons-final{
+    text-align: center;
+    margin-top: 45px;
+}
+
+.Icons-final a{
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    margin-left: 10px;
+}
+
+.Form p{
+    text-align: center;
+    margin: 0 auto;
+    color: #828282;
+    font-size: 16px;
+    height: 90px;
+    padding-top: 15px;
+}
+
